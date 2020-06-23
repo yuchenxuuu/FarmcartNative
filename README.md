@@ -79,7 +79,7 @@ Profile
 ```
 User settings.
 
-## Backend modal
+## Backend model
 
 Currently supports 
 /signup, /login, /addfarmproducts, /deletefarmproducts, /updatefarmproducts
