@@ -75,7 +75,7 @@ Cart
 Cart enable users to add product into their cart.
 
 ```
-Prodile
+Profile
 ```
 User settings.
 
