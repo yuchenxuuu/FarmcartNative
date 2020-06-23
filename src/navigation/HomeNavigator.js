@@ -42,8 +42,6 @@ function HomeNavigator() {
             iconName = `home${focused ? '' : '-outline'}`;
           } else if (route.name === 'Search') {
             iconName = 'magnify';
-          } else if (route.name === 'Favorites') {
-            iconName = `heart${focused ? '' : '-outline'}`;
           } else if (route.name === 'Profile') {
             iconName = `account-box${focused ? '' : '-outline'}`;
           }
