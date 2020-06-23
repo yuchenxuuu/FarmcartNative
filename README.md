@@ -23,7 +23,7 @@ nodemon server
 ```
 To start the backend server of the app.
 
-## Quick Coding Structure 
+## Quick Guide Coding Structure 
 
 ### MainNavigator
 
